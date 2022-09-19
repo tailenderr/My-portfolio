@@ -1,0 +1,26 @@
+.tech-tag {
+  color: #ffd700;
+}
+.sphere {
+  width: 50%;
+  position: absolute;
+  right: 0;
+  margin-left: 0;
+  height: 100%;
+  top: 0;
+  padding-top: 5%;
+  overflow: hidden;
+  animation: bounceInRight;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 2.5s;
+  color: #ffd700;
+}
+.tagcloud--item:hover {
+  color: peru;
+}
+.tagcloud {
+  display: inline-block;
+  font-size: larger;
+  font-weight: 500;
+}
