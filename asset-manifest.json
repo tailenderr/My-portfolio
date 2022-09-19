@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/myPortFolio/myapp/static/css/main.f77b3815.css",
+    "main.js": "/myPortFolio/myapp/static/js/main.33fad3c8.js",
+    "static/js/787.d3befce1.chunk.js": "/myPortFolio/myapp/static/js/787.d3befce1.chunk.js",
+    "static/media/helvetica-neu.ttf": "/myPortFolio/myapp/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/myPortFolio/myapp/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/myPortFolio/myapp/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/myPortFolio/myapp/index.html",
+    "main.f77b3815.css.map": "/myPortFolio/myapp/static/css/main.f77b3815.css.map",
+    "main.33fad3c8.js.map": "/myPortFolio/myapp/static/js/main.33fad3c8.js.map",
+    "787.d3befce1.chunk.js.map": "/myPortFolio/myapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77b3815.css",
+    "static/js/main.33fad3c8.js"
+  ]
+}
